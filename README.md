@@ -6,4 +6,7 @@
 
 
 <마인크래프트 서버 자동추가 URL>   
-minecraft://?addExternalServer=radio server |radio.pe.kr:19132
+minecraft://?addExternalServer=radio server |radio.pe.kr:19132   
+
+#플러그인 추가   
+1.soloworldedit ---> api 
