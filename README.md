@@ -1,2 +1,5 @@
-# PocketMine-MP
-PocketMine-MP
+# Welcome!
+
+환영합니다. LeeRadio 입니다.
+이곳은 저만의 작업공간이며 상태가 좋은것들은 
+수시로 업로드하여 공유중입니다.
